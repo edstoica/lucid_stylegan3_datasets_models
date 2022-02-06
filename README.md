@@ -91,14 +91,14 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 |    |   |
 | --- | --- |
-| Name | Vivid Flowers |
+| Name | forrest daemons |
 | Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
 | Image count | 794 |
 | Dataset download | [256](https://www.dropbox.com/s/anj5eolzsr6ikp2/forrest_daemons.256.zip?dl=0), [512](https://www.dropbox.com/s/zs975iqucpl4mxc/forrest_daemons.512.zip?dl=0), [1024](https://www.dropbox.com/s/74fkrbsnqhiwu84/forrest_daemons.1024.zip?dl=0) |
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152701197-7571c2ab-da31-49ee-83df-14e7fa55c15f.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i>vivid_flowers.256.pkl</i></summary>
+  <details><Summary>Model: <i>forrest_daemons.256.pkl</i></summary>
 
   |    |   |
   | --- | --- |
@@ -115,7 +115,22 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 
 ## 5. third eye watching you <img src="https://user-images.githubusercontent.com/10214666/152700663-aaf208ee-3d24-4659-bf90-7265a154224f.jpg" align="right" width=120 > 
-coming soon...<br><br><br><br><br>
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | third eye watching you |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1363 |
+| Dataset download | [256](https://www.dropbox.com/s/l953cktli9yzhnu/third_eye_watching.256.zip?dl=0), [512](https://www.dropbox.com/s/1lcvqm113r5ycob/third_eye_watching.512.zip?dl=0), [1024](https://www.dropbox.com/s/ndzq26kzoabs90h/third_eye_watching.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152702468-5688299c-0e43-4e91-96ce-e3a2ebee15d0.jpg" height=150> |
+  
+  </details>
+  <details><Summary>Model: <i></i></summary>
+
+  coming soon ...
+  
+  </details>
 
 
 
@@ -144,20 +159,54 @@ coming soon...<br><br><br><br><br>
 
 
 
+  ## 7. scifi city <img src="https://user-images.githubusercontent.com/10214666/152702819-59236aa5-de91-466e-ac0b-4428d6c3fb00.jpg" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+  coming soon...
+  </details>
+  <details><Summary>Model: scifi_city.256.pkl<i></i></summary>
+
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 210 kimg<br>[Download](https://www.dropbox.com/s/1kfsmlct4mriphc/network-snapshot-000210.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152702636-0706f294-5910-4546-b43a-769d56e0b1b3.jpg" height=150> |  
+ 
+  </details>
 
 
 
 
 
+  ## 8. scifi spaceship <img src="https://user-images.githubusercontent.com/10214666/152702994-1fc272e8-7b4d-4f31-baf7-64a02d67d7d8.png" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | scifi spaceship |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1108 |
+| Dataset download | [256](https://www.dropbox.com/s/34oajoz0v931vlw/a_scifi_space_ship.256.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152702989-865643b1-91de-461b-9259-83c65425ded1.jpg" height=150> |
+  
+  </details>
+  <details><Summary>Model: <i></i></summary>
+
+coming soon...
+  </details>
+
+
+
+<!--
 <br><br><br><br><br><br><br><br><br>
   ## x. template <img src="" align="right" width=120 > 
 <details><Summary>Dataset</summary>
 
 |    |   |
 | --- | --- |
-| Name | Vivid Flowers |
+| Name |  |
 | Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
-| Image count | 794 |
+| Image count |  |
 | Dataset download | [256](), [512](), [1024]() |
 | Samples | <img src="" height=150> |
   
@@ -171,3 +220,4 @@ coming soon...<br><br><br><br><br>
   | 00 kimg<br>[Download]() | <img src="" height=150> |  
  
   </details>
+-->
