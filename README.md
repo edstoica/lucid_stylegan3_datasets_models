@@ -1,6 +1,10 @@
 # Datasets and Models for StyleGAN3
 This is a collection of artistic datasets and models that we have created during our ongoing stylegan3 trip.
-<br>You are welcomed to use them for your own purposes as long as you include a link to this repo in your publication.
+You may like to use the model snapshots* for instant fun, or you can work with the source datasets.
+<br><br><i>*You are welcomed to use the models for your own purposes as long as you include a link to this repo in your work.</i>
+# ... based on "Wombo Dream":
+All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images.
+these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
@@ -105,10 +109,12 @@ This is a collection of artistic datasets and models that we have created during
   | Method | stylegan3-t, Transfer learning from [Landscape256]() |
   | Resolution | 256x256 |
   | 18 kimg<br>[Download](https://www.dropbox.com/s/26muctr2eq4br6l/network-snapshot-000018.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152701433-2c2286f3-cd52-4252-8a04-a99f4c45a292.jpg" height=150> |  
+  | 03 kimg<br>[Download](https://www.dropbox.com/s/rojv7v791a3keqj/network-snapshot-000003.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706541-db11aaea-a14b-411c-a288-77d8c3799605.jpg" height=150> |  
  
   </details>
   
   
+
   
   
 
@@ -168,7 +174,7 @@ This is a collection of artistic datasets and models that we have created during
 | Name | scifi city |
 | Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
 | Image count | 1245 |
-| Dataset download | [256](https://www.dropbox.com/s/8ttrikdorw8v8cw/a_scifi_city.256.zip?dl=0), [512](https://www.dropbox.com/s/xopgfowlgvqisuf/a_scifi_city.512.zip?dl=0), [1024]() |
+| Dataset download | [256](https://www.dropbox.com/s/8ttrikdorw8v8cw/a_scifi_city.256.zip?dl=0), [512](https://www.dropbox.com/s/xopgfowlgvqisuf/a_scifi_city.512.zip?dl=0), [1024](https://www.dropbox.com/s/vzqefxmz27ukpzs/a_scifi_city.1024.zip?dl=0) |
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152703422-bc5e72c8-c349-422a-be60-5d2aa3b49eeb.jpg" height=150> |
   
   </details>
@@ -179,7 +185,9 @@ This is a collection of artistic datasets and models that we have created during
   | Method | stylegan3-t, Transfer learning from [Landscape256]() |
   | Resolution | 256x256 |
   | 210 kimg<br>[Download](https://www.dropbox.com/s/1kfsmlct4mriphc/network-snapshot-000210.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152702636-0706f294-5910-4546-b43a-769d56e0b1b3.jpg" height=150> |  
- 
+  | 018 kimg<br>[Download](https://www.dropbox.com/s/g33kht86vdzummk/network-snapshot-000018.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706385-fd258fca-02bf-4599-8cfa-50f6dce79422.jpg" height=150> |  
+  | 013 kimg<br>[Download](https://www.dropbox.com/s/o874sdoo1iuowqy/network-snapshot-000013.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706389-d9c60c4a-abb9-4a82-9b59-a644ece8c9cc.jpg" height=150> |  
+  | 008 kimg<br>[Download](https://www.dropbox.com/s/7fmjlc8vje15m6v/network-snapshot-000008.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706387-8ad6884b-7ea6-4c20-a612-8a58f4a46e91.jpg" height=150> |  
   </details>
 
 
@@ -194,16 +202,58 @@ This is a collection of artistic datasets and models that we have created during
 | Name | scifi spaceship |
 | Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
 | Image count | 1108 |
-| Dataset download | [256](https://www.dropbox.com/s/34oajoz0v931vlw/a_scifi_space_ship.256.zip?dl=0), [512](https://www.dropbox.com/s/0ilbpcdn413ivr5/a_scifi_space_ship.512.zip?dl=0), [1024]() |
+| Dataset download | [256](https://www.dropbox.com/s/34oajoz0v931vlw/a_scifi_space_ship.256.zip?dl=0), [512](https://www.dropbox.com/s/0ilbpcdn413ivr5/a_scifi_space_ship.512.zip?dl=0), [1024](https://www.dropbox.com/s/iidpx8ta0v7kc1i/a_scifi_space_ship.1024.zip?dl=0) |
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152702989-865643b1-91de-461b-9259-83c65425ded1.jpg" height=150> |
   
   </details>
   <details><Summary>Model: <i></i></summary>
 
-coming soon...
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 128 kimg<br>[Download](https://www.dropbox.com/s/6lwn7c9y0i952ew/network-snapshot-000128.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706249-716a09ca-09e9-4f0e-89e6-7c0482669d6f.jpg" height=150> | 
+  | 13 kimg<br>[Download](https://www.dropbox.com/s/nqpq11gcsu0e7yw/network-snapshot-000013.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706247-7142c170-6b05-4780-b02c-e48a88eec2be.jpg" height=150> | 
   </details>
 
 
+
+
+
+
+  ## 9. yellow comic alien <img src="https://user-images.githubusercontent.com/10214666/152703766-446ff8cd-213e-4688-a573-3788cc6b0535.png" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | yellow comic alien |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 3984 |
+| Dataset download | [256](https://www.dropbox.com/s/6r5t53p7s19g76d/alien256.zip?dl=0), [512](https://www.dropbox.com/s/fopu5jvzot7swdc/alien512.zip?dl=0), [1024](https://www.dropbox.com/s/qdcgakyrz8u324a/alien1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152703771-b0d20e09-c320-4557-8628-ba55cf1d21c2.jpg" height=150> |
+  
+  </details>
+  <details><Summary>Model 256x256 <i></i></summary>
+
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 19 kimg<br>[Download](https://www.dropbox.com/s/g14lsdbohuk2oco/network-snapshot-000019.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706153-747c0f7d-344a-4430-acf8-48768626bcd0.jpg" height=150> |  
+ 
+  </details>
+  <details><Summary>Model 512x512 <i></i></summary>
+
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [affhq]() |
+  | Resolution | 512x512 |
+  | 236 kimg<br>[Download](https://www.dropbox.com/s/yzraojzmg2kybjx/network-snapshot-000236.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706105-573d831e-2c49-4608-8f9b-2792f5cc95ce.jpg" height=150> |  
+  | 004 kimg<br>[Download](https://www.dropbox.com/s/ysmm501vtv50mze/network-snapshot-000004.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706125-71881111-6645-4db0-8358-947ee7e4005b.jpg" height=150> | 
+
+
+
+  </details>
 
 <!--
 <br><br><br><br><br><br><br><br><br>
