@@ -1,5 +1,5 @@
 # Datasets and Models for StyleGAN3
-This is a collection of artistic datasets and models we created during our ongoing stylegan3 trip.
+This is a collection of artistic datasets and modelsm that we have created during our ongoing stylegan3 trip.
 <br>You are welcomed to use them for your own purposes.
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
