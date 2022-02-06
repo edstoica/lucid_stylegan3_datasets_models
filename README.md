@@ -1,6 +1,6 @@
 # Datasets and Models for StyleGAN3
 This is a collection of artistic datasets and modelsm that we have created during our ongoing stylegan3 trip.
-<br>You are welcomed to use them for your own purposes.
+<br>You are welcomed to use them for your own purposes as long as you include a link to this repo in your publication.
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
@@ -80,3 +80,15 @@ This is a collection of artistic datasets and modelsm that we have created durin
  
   </details>
   
+
+
+
+
+## 4. forrest daemons <img src="https://user-images.githubusercontent.com/10214666/152700584-add73b02-f8b7-4b2c-b46c-ec2529f8659d.jpg" align="right" width=120 > 
+coming soon...
+<br><br><br><br>
+
+
+
+## 5. third eye watching you <img src="https://user-images.githubusercontent.com/10214666/152700663-aaf208ee-3d24-4659-bf90-7265a154224f.jpg" align="right" width=120 > 
+coming soon...
