@@ -159,10 +159,18 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 
 
+
   ## 7. scifi city <img src="https://user-images.githubusercontent.com/10214666/152702819-59236aa5-de91-466e-ac0b-4428d6c3fb00.jpg" align="right" width=120 > 
 <details><Summary>Dataset</summary>
 
-  coming soon...
+|    |   |
+| --- | --- |
+| Name | scifi city |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1245 |
+| Dataset download | [256](https://www.dropbox.com/s/8ttrikdorw8v8cw/a_scifi_city.256.zip?dl=0), [512](https://www.dropbox.com/s/xopgfowlgvqisuf/a_scifi_city.512.zip?dl=0), [1024]() |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152703422-bc5e72c8-c349-422a-be60-5d2aa3b49eeb.jpg" height=150> |
+  
   </details>
   <details><Summary>Model: scifi_city.256.pkl<i></i></summary>
 
@@ -186,7 +194,7 @@ This is a collection of artistic datasets and modelsm that we have created durin
 | Name | scifi spaceship |
 | Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
 | Image count | 1108 |
-| Dataset download | [256](https://www.dropbox.com/s/34oajoz0v931vlw/a_scifi_space_ship.256.zip?dl=0) |
+| Dataset download | [256](https://www.dropbox.com/s/34oajoz0v931vlw/a_scifi_space_ship.256.zip?dl=0), [512](https://www.dropbox.com/s/0ilbpcdn413ivr5/a_scifi_space_ship.512.zip?dl=0), [1024]() |
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152702989-865643b1-91de-461b-9259-83c65425ded1.jpg" height=150> |
   
   </details>
