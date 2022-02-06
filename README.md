@@ -58,7 +58,7 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 
 
-## 3. Alien Sunglasses <img src="https://user-images.githubusercontent.com/10214666/152700037-4a7c3b98-8c34-4f1f-9620-05e6b35306f6.png" align="right" width=120 > 
+## 3. Alien with Sunglasses <img src="https://user-images.githubusercontent.com/10214666/152700037-4a7c3b98-8c34-4f1f-9620-05e6b35306f6.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
 
 |    |   |
