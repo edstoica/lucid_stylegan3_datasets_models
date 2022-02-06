@@ -84,11 +84,63 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 
 
+
+
 ## 4. forrest daemons <img src="https://user-images.githubusercontent.com/10214666/152700584-add73b02-f8b7-4b2c-b46c-ec2529f8659d.jpg" align="right" width=120 > 
-coming soon...
-<br><br><br><br>
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | Vivid Flowers |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 794 |
+| Dataset download | [256](https://www.dropbox.com/s/anj5eolzsr6ikp2/forrest_daemons.256.zip?dl=0), [512](https://www.dropbox.com/s/zs975iqucpl4mxc/forrest_daemons.512.zip?dl=0), [1024](https://www.dropbox.com/s/74fkrbsnqhiwu84/forrest_daemons.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152701197-7571c2ab-da31-49ee-83df-14e7fa55c15f.jpg" height=150> |
+  
+  </details>
+  <details><Summary>Model: <i>vivid_flowers.256.pkl</i></summary>
+
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 18 kimg<br>[Download](https://www.dropbox.com/s/26muctr2eq4br6l/network-snapshot-000018.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152701433-2c2286f3-cd52-4252-8a04-a99f4c45a292.jpg" height=150> |  
+ 
+  </details>
+  
+  
+  
+  
 
 
 
 ## 5. third eye watching you <img src="https://user-images.githubusercontent.com/10214666/152700663-aaf208ee-3d24-4659-bf90-7265a154224f.jpg" align="right" width=120 > 
 coming soon...
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
+  ## x. template <img src="" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | Vivid Flowers |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 794 |
+| Dataset download | [256](), [512](), [1024]() |
+| Samples | <img src="" height=150> |
+  
+  </details>
+  <details><Summary>Model: <i></i></summary>
+
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 00 kimg<br>[Download]() | <img src="" height=150> |  
+ 
+  </details>
