@@ -102,7 +102,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152701197-7571c2ab-da31-49ee-83df-14e7fa55c15f.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i>forrest_daemons.256.pkl</i></summary>
+  <details><Summary>Model: <i>forest_daemons.256.pkl</i></summary>
 
   |    |   |
   | --- | --- |
