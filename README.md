@@ -115,7 +115,34 @@ This is a collection of artistic datasets and modelsm that we have created durin
 
 
 ## 5. third eye watching you <img src="https://user-images.githubusercontent.com/10214666/152700663-aaf208ee-3d24-4659-bf90-7265a154224f.jpg" align="right" width=120 > 
-coming soon...
+coming soon...<br><br><br><br><br>
+
+
+
+
+
+
+
+  ## 6. mars spaceport <img src="https://user-images.githubusercontent.com/10214666/152702104-44395a9c-e069-47b7-aab7-c9545fec297b.png" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | mars spaceport |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 710 |
+| Dataset download | [256](https://www.dropbox.com/s/oho0aciounn1a4p/mars_spaceport.256.zip?dl=0), [512](https://www.dropbox.com/s/cb8a409227exq4k/mars_spaceport.512.zip?dl=0), [1024](https://www.dropbox.com/s/54m70eytqj47plr/mars_spaceport.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152702191-9066ad1f-339c-4a04-a11b-5eb94de4fcae.jpg" height=150> |
+  
+  </details>
+  <details><Summary>Model: <i></i></summary>
+
+  coming soon ...
+  
+  </details>
+
+
+
 
 
 
