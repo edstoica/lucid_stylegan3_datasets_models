@@ -132,7 +132,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152702468-5688299c-0e43-4e91-96ce-e3a2ebee15d0.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i></i></summary>
+  <details><Summary>Model: coming soon ...<i></i></summary>
 
   coming soon ...
   
@@ -156,7 +156,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152702191-9066ad1f-339c-4a04-a11b-5eb94de4fcae.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i></i></summary>
+  <details><Summary>Model: coming soon ...<i></i></summary>
 
   coming soon ...
   
@@ -206,7 +206,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152702989-865643b1-91de-461b-9259-83c65425ded1.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i></i></summary>
+  <details><Summary>Model: 256<i></i></summary>
 
   |    |   |
   | --- | --- |
