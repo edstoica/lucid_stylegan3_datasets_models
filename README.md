@@ -1,5 +1,5 @@
 # Datasets and pretrained Models for StyleGAN3
-<b>This is a collection of artistic datasets and models that we have created during our ongoing stylegan3 trip.<br>
+<b>This is a collection of artistic datasets and models that we have created during our ongoing stylegan3 trip at the <i>lucid layers</i> studios.<br>
 You can use the model snapshots for instant fun*, or you can work with the source datasets to train your own models**.</b><br>
 <br><br><i>*   You are welcomed to use the model snapshots for your own purposes as long as you include a link to this repo in your work.</i>
 <br><i>**   If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
