@@ -3,7 +3,7 @@
 You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
 Some models include multiple snapshots. these can give interesing variations.
 <br><br><i>You are welcomed to use everything for your own purposes, but please include a link to this repo in your work.</i><br>
-If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
+
 
 
 # ... based on "Wombo Dream":
@@ -338,6 +338,8 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
  
   </details>
 -->
-
+## Contribution
+If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
+Also, if you made some images or videos you like to share - put them in the issues...
 ## License
 You are welcomed to use everything for your own (commercial) purposes, but please include a link to this repo in your work. Thank you.
