@@ -59,9 +59,11 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
   | --- | --- |
   | Method | stylegan3-t, Transfer learning from [Landscape256]() |
   | Resolution | 256x256 |
+  | 68 kimg<br>[Download .pkl](https://www.dropbox.com/s/o33lhgnk91hstvx/network-snapshot-000069.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152802322-c514368c-3f54-4354-b5cf-7933efed4cab.jpg" height=150>![network-snapshot-000067 pkl](https://user-images.githubusercontent.com/10214666/152802351-41ec2c1a-73e4-4bd7-8d77-de2acaf19b82.gif) |   
   | 12 kimg<br>[Download .pkl](https://www.dropbox.com/s/36gq2zwb0p3fo1f/network-snapshot-000012.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152699361-eb1bf9e6-1ec9-4503-8c69-f5f27e79e475.jpg" height=150>![network-snapshot-000012 pkl](https://user-images.githubusercontent.com/10214666/152711526-ba909f26-0412-4507-a6f5-a4f61d2427b4.gif) |  
  
   </details>
+
 
 
 
