@@ -9,14 +9,14 @@ You find information on each update in the "[releases](https://github.com/edstoi
 ### Progress
 - [x] prepare all datasets in resolutions 256, 512, 1024
 - [ ] train each datasets in 256
-- [ ] train each datasets in 512
-- [ ] train each datasets in 1024
+- [ ] train some datasets in 512
+- [ ] train some datasets in 1024
 
 
 # ... based on "Wombo Dream":
-All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the solid api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images.
-these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.
-
+All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the solid api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images. these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.<br>
+Most datasets are tied to one single textpromt with some minor variations. But you may mix them together in new datasets to train multi domain models.<br>
+<i><br>Thanks to the wombo creators</b> for their generous quota limits. since this is a free service, we like to share all batches that have been created.</i>
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
