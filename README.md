@@ -184,10 +184,10 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
   | --- | --- |
   | Method | stylegan3-t, Transfer learning from [Landscape256]() |
   | Resolution | 256x256 |
-  | 210 kimg<br>[Download .pkl](https://www.dropbox.com/s/1kfsmlct4mriphc/network-snapshot-000210.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152702636-0706f294-5910-4546-b43a-769d56e0b1b3.jpg" height=150> |  
-  | 018 kimg<br>[Download .pkl](https://www.dropbox.com/s/g33kht86vdzummk/network-snapshot-000018.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706385-fd258fca-02bf-4599-8cfa-50f6dce79422.jpg" height=150> |  
-  | 013 kimg<br>[Download .pkl](https://www.dropbox.com/s/o874sdoo1iuowqy/network-snapshot-000013.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706389-d9c60c4a-abb9-4a82-9b59-a644ece8c9cc.jpg" height=150> |  
-  | 008 kimg<br>[Download .pkl](https://www.dropbox.com/s/7fmjlc8vje15m6v/network-snapshot-000008.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706387-8ad6884b-7ea6-4c20-a612-8a58f4a46e91.jpg" height=150> |  
+  | 210 kimg<br>[Download .pkl](https://www.dropbox.com/s/1kfsmlct4mriphc/network-snapshot-000210.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152702636-0706f294-5910-4546-b43a-769d56e0b1b3.jpg" height=150>&nbsp;![network-snapshot-000210 pkl](https://user-images.githubusercontent.com/10214666/152711020-d448d753-90db-4da4-b019-043c56edd024.gif) |  
+  | 018 kimg<br>[Download .pkl](https://www.dropbox.com/s/g33kht86vdzummk/network-snapshot-000018.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706385-fd258fca-02bf-4599-8cfa-50f6dce79422.jpg" height=150>&nbsp;![network-snapshot-000018 pkl](https://user-images.githubusercontent.com/10214666/152710822-eefafae9-db82-4e3f-ad6f-fe6660b04f85.gif) |  
+  | 013 kimg<br>[Download .pkl](https://www.dropbox.com/s/o874sdoo1iuowqy/network-snapshot-000013.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706389-d9c60c4a-abb9-4a82-9b59-a644ece8c9cc.jpg" height=150>&nbsp;![network-snapshot-000013 pkl](https://user-images.githubusercontent.com/10214666/152710829-f4c63191-645b-4a82-b682-22b4ef036bfd.gif) |  
+  | 008 kimg<br>[Download .pkl](https://www.dropbox.com/s/7fmjlc8vje15m6v/network-snapshot-000008.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706387-8ad6884b-7ea6-4c20-a612-8a58f4a46e91.jpg" height=150>&nbsp;![network-snapshot-000008 pkl](https://user-images.githubusercontent.com/10214666/152710832-89de4fe1-40a9-4477-805c-370756ff0e15.gif) |  
   </details>
 
 
