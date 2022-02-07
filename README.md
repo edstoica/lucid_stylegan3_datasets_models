@@ -6,7 +6,7 @@ Some models include multiple snapshots. these can give interesing variations.
 <br>
 This Document will be updated frequently since most of our models are still training on higher resolution.
 - [x] prepare all datasets in resolutions 256, 512, 1024
-- [x] train each datasets in 256
+- [ ] train each datasets in 256
 - [ ] train each datasets in 512
 - [ ] train each datasets in 1024
 
@@ -318,6 +318,26 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 
 
 
+  ## 12. two aliens speaking <img src="https://user-images.githubusercontent.com/10214666/152798772-9a5de403-0f12-4e59-bab2-0e23c95560fb.jpg" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | two_aliens_speaking |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1159 |
+| Dataset download | [256](https://www.dropbox.com/s/46sa9szcnojg41b/two_aliens_speaking.256.zip?dl=0), [512](https://www.dropbox.com/s/i3dj5i2sh8prxur/two_aliens_speaking.512.zip?dl=0), [1024](https://www.dropbox.com/s/rc9p330t68dj3zh/two_aliens_speaking.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152798793-4886479a-5893-4ee5-98d0-6fa62b20730e.png" height=150> |
+  
+  </details>
+  <details><Summary>Model: coming soon... <i></i></summary>
+ 
+  </details>
+
+
+
+
+
 
 <!--
 <br><br><br><br><br><br><br><br><br>
@@ -347,4 +367,4 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
 <br>Also, if you made some images or videos you like to share - we would love to see your work! put everything in the issues...
 ## License
-You are welcomed to use everything for your own (commercial) purposes, but please include a link to this repo in your work. Thank you.
+You are welcomed to use all files for your own (commercial) purposes, but please include a link to this repo in your work. Thank you.
