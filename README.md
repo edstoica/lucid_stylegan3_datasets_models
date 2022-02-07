@@ -1,11 +1,15 @@
 # Datasets and pretrained Models for StyleGAN3
 <b>Dear Ai-Friend, this is a collection of artistic datasets and models that we have put together during our ongoing stylegan3 trip at the <i>lucid layers</i> studios.<br>
 You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
-<br><br><i>You are welcomed to use the model snapshots for your own purposes as long as you include a link to this repo in your work.</i><br>
+Some models include multiple snapshots. these can give interesing variations.
+<br><br><i>You are welcomed to use everything for your own purposes, but please include a link to this repo in your work.</i><br>
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
+
+
 # ... based on "Wombo Dream":
 All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the solid api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images.
 these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.
+
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
@@ -334,3 +338,6 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
  
   </details>
 -->
+
+# License
+You are welcomed to use everything for your own purposes, but please include a link to this repo in your work. Thank you.
