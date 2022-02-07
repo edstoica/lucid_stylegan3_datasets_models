@@ -5,12 +5,8 @@ Some models include multiple snapshots. these can give interesting variations.
 ### Updates
 </b>This Document will be updated frequently</b> since most of our models are still in training on higher resolution.
 You find information on each update in the "[releases](https://github.com/edstoica/lucid_stylegan3_datasets_models/releases)" section. (you may "watch" this repo for getting notified on new models)
-### Progress
-- [x] prepare all datasets in resolutions 256, 512, 1024
-- [ ] train each datasets in 256
-- [ ] train some datasets in 512
-- [ ] train some datasets in 1024
 
+----------------------------------------
 
 # ... based on [Wombo Dream](https://www.wombo.art/):
 All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the solid api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images. these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.<br>
@@ -366,6 +362,18 @@ Most datasets are tied to one single textpromt with some minor variations. But y
  
   </details>
 -->
+-------------------------------------------------
+## Usage
+We recommend to install the official [StyleGAN3](https://github.com/NVlabs/stylegan3) repo to your local machine. then use the "visualizer.py" to start the gui. The gui is very commfortable  to use and allows easy visual inspection of the model. (RTX card recommended).<br>
+If you have troubles for installing on windows with anaconda, try my edited [enviroment.yml](https://github.com/edstoica/stylegan3/blob/main/environment.yml) file. this works with the current [pytorch](https://pytorch.org/get-started/locally/) release (cuda11).
+Alternatively you may use a colab notebook to generate images/videos from the model. Just copy the links to the models from this page and copy to your favorite colab notebook.
+Here is our notebook:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edstoica/lucid_stylegan3_datasets_models/blob/main/StyleGAN3-Toolkit.ipynb)
+## Progress
+- [x] prepare all datasets in resolutions 256, 512, 1024
+- [ ] train each datasets in 256
+- [ ] train some datasets in 512
+- [ ] train some datasets in 1024
 ## Contribution
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
 <br>Also, if you made some images or videos you like to share - we would love to see your work! put everything in the issues...
