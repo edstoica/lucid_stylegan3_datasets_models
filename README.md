@@ -167,7 +167,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 
 
 
-  ## 7. scifi city <img src="https://user-images.githubusercontent.com/10214666/152702819-59236aa5-de91-466e-ac0b-4428d6c3fb00.jpg" align="right" width=120 > 
+## 7. scifi city <img src="https://user-images.githubusercontent.com/10214666/152702819-59236aa5-de91-466e-ac0b-4428d6c3fb00.jpg" align="right" width=120 > 
 <details><Summary>Dataset</summary>
 
 |    |   |
