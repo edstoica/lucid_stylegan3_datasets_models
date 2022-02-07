@@ -251,10 +251,57 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
   | Resolution | 512x512 |
   | 236 kimg<br>[Download .pkl](https://www.dropbox.com/s/yzraojzmg2kybjx/network-snapshot-000236.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706105-573d831e-2c49-4608-8f9b-2792f5cc95ce.jpg" height=150>![network-snapshot-000236 pkl](https://user-images.githubusercontent.com/10214666/152711650-d4b7b43c-d1c1-42cd-aaf2-53429ee91829.gif) |  
   | 004 kimg<br>[Download .pkl](https://www.dropbox.com/s/ysmm501vtv50mze/network-snapshot-000004.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706125-71881111-6645-4db0-8358-947ee7e4005b.jpg" height=150>![network-snapshot-000004 pkl](https://user-images.githubusercontent.com/10214666/152711645-4a48e380-fee4-4ed3-af13-566a230f9dcc.gif) | 
+  </details>
 
 
+
+
+
+
+
+
+
+  ## 10. eternal planet earth <img src="https://user-images.githubusercontent.com/10214666/152715323-e10c38c7-e41b-4319-b8a0-54e4db1080f7.png" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | eternal planet earth |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1323 |
+| Dataset download | [256](https://www.dropbox.com/s/0m12uho06piad9k/eternal_love_for_planet_earth.256.zip?dl=0), [512](https://www.dropbox.com/s/cp88cebhxiudfy4/eternal_love_for_planet_earth.512.zip?dl=0), [1024](https://www.dropbox.com/s/ju9k9j0oxovjp7g/eternal_love_for_planet_earth.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152715232-e3d7d0e3-ed64-40be-a729-18ff5a4bcf90.jpg" height=150> |  
+  
+  </details>
+  <details><Summary>Model: coming soon ...<i></i></summary>
 
   </details>
+
+
+
+
+
+
+
+  ## 11. mechanical landscape madness <img src="https://user-images.githubusercontent.com/10214666/152718081-be89b510-3678-4fea-b0f5-5feb7bc56dcf.png" align="right" width=120 > 
+<details><Summary>Dataset</summary>
+
+|    |   |
+| --- | --- |
+| Name | mechanical landscape madness  |
+| Method | [Wombo Dream](https://www.wombo.art/) via [Wombot](https://github.com/adri326/wombot) |
+| Image count | 1269 |
+| Dataset download | [256](https://www.dropbox.com/s/1cx5o001lj2wmfg/mech_landsc_madn.256.zip?dl=0), [512](https://www.dropbox.com/s/zd58xwyb9iy6ro2/mech_landsc_madn.512.zip?dl=0), [1024](https://www.dropbox.com/s/yjiy4mtdp6ql9uv/mech_landsc_madn.1024.zip?dl=0) |
+| Samples | <img src="https://user-images.githubusercontent.com/10214666/152718110-629afb83-2b9d-4743-9a7a-b1fed31f74ba.jpg" height=150> |  
+  
+  </details>
+  <details><Summary>Model: coming soon ...<i></i></summary>
+
+  </details>
+
+
+
+
 
 <!--
 <br><br><br><br><br><br><br><br><br>
