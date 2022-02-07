@@ -3,7 +3,7 @@
 Some models include multiple snapshots. these can give interesting variations.
 > #### tip: best viewed [maximized](https://github.com/edstoica/lucid_stylegan3_datasets_models/blob/main/README.md)</i>
 ### Updates
-</b>This Document will be updated frequently</b> since most of our models are still in training on higher resolution.
+</b>This Document will be updated frequently</b> since a lot of models are still in training on higher resolutions.
 You find information on each update in the "[releases](https://github.com/edstoica/lucid_stylegan3_datasets_models/releases)" section. (you may "watch" this repo for getting notified on new models)
 
 ----------------------------------------
