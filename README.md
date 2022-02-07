@@ -1,7 +1,7 @@
 # Datasets and pretrained Models for [StyleGAN3](https://github.com/NVlabs/stylegan3) ...
 <b>Dear arfiticial friend, this is a collection of artistic datasets and models that we have put together during our ongoing stylegan3 trip at the <i>lucid layers</i> studios. You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
 Some models include multiple snapshots. these can give interesting variations.
-> ## tip: best viewed [maximized](https://github.com/edstoica/lucid_stylegan3_datasets_models/blob/main/README.md)</i>
+> #### tip: best viewed [maximized](https://github.com/edstoica/lucid_stylegan3_datasets_models/blob/main/README.md)</i>
 ### Updates
 </b>This Document will be updated frequently</b> since most of our models are still in training on higher resolution.
 You find information on each update in the "[releases](https://github.com/edstoica/lucid_stylegan3_datasets_models/releases)" section. (you may "watch" this repo for getting notified on new models)
@@ -366,8 +366,8 @@ Most datasets are tied to one single textpromt with some minor variations. But y
 ## Usage
 We recommend to install the official [StyleGAN3](https://github.com/NVlabs/stylegan3) repo to your local machine. then use the "visualizer.py" to start the gui. The gui is very commfortable  to use and allows easy visual inspection of the model. (RTX card recommended).<br>
 If you have troubles for installing on windows with anaconda, try my edited [enviroment.yml](https://github.com/edstoica/stylegan3/blob/main/environment.yml) file. this works with the current [pytorch](https://pytorch.org/get-started/locally/) release (cuda11).
-Alternatively you may use a colab notebook to generate images/videos from the model. Just copy the links to the models from this page and copy to your favorite colab notebook.
-Here is our notebook:
+<br>Alternatively you may use a colab notebook to generate images/videos from the model. Just copy the links from this page to your favorite colab notebook.
+<br>Here is a basic notebook, pre-configured for our models: (image, video, music video)<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edstoica/lucid_stylegan3_datasets_models/blob/main/StyleGAN3-Toolkit.ipynb)
 ## Progress
 - [x] prepare all datasets in resolutions 256, 512, 1024
