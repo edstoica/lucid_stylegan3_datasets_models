@@ -18,7 +18,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Dataset download | [256](https://www.dropbox.com/s/luan4zn11az3jfi/mech_dev_future.256.zip?dl=0), [512](https://www.dropbox.com/s/ov4nbcn457qp0ux/mech_dev_future.512.zip?dl=0), [1024](https://www.dropbox.com/s/mkt2z98atp9gru1/mech_dev_future.1024.zip?dl=0) |
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" width=150><img src="https://user-images.githubusercontent.com/10214666/152695348-745399e1-d145-4273-b4af-ee8b23179dc7.png" width=150><img src="https://user-images.githubusercontent.com/10214666/152695351-9e0548a9-1e6b-44e2-8423-32fbf03406a4.png" width=150><img src="https://user-images.githubusercontent.com/10214666/152695358-c8c47ea4-b5b6-4368-a11f-dc7cce9125e3.png" width=150> |  
   </details>
-  <details><Summary>Model: <i>mech_dev.256.pkl</i></summary>
+  <details><Summary>Model: <i>256 px</i></summary>
   
   |    |   |
   | --- | --- |
@@ -44,7 +44,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152699137-dc389292-2ab7-4703-a0d5-d00ca5c0e8af.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i>vivid_flowers.256.pkl</i></summary>
+  <details><Summary>Model: <i>256 px</i></summary>
 
   |    |   |
   | --- | --- |
@@ -75,7 +75,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152700237-cbfa093f-83d4-4f03-9c6d-ba998f790483.png" height=150> |
   
   </details>
-  <details><Summary>Model: <i>alien_sunglasses.256.pkl</i></summary>
+  <details><Summary>Model: <i>256 px</i></summary>
 
   |    |   |
   | --- | --- |
@@ -103,7 +103,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152701197-7571c2ab-da31-49ee-83df-14e7fa55c15f.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: <i>forest_daemons.256.pkl</i></summary>
+  <details><Summary>Model: <i>256 px</i></summary>
 
   |    |   |
   | --- | --- |
@@ -179,7 +179,7 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152703422-bc5e72c8-c349-422a-be60-5d2aa3b49eeb.jpg" height=150> |
   
   </details>
-  <details><Summary>Model: scifi_city.256.pkl<i></i></summary>
+  <details><Summary>Model: 256 px<i></i></summary>
 
   |    |   |
   | --- | --- |
@@ -209,10 +209,12 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
   </details>
   <details><Summary>Model: 256<i></i></summary>
 
+
   |    |   |
   | --- | --- |
   | Method | stylegan3-t, Transfer learning from [Landscape256]() |
   | Resolution | 256x256 |
+  | 168 kimg<br>[Download .pkl](https://www.dropbox.com/s/02br3mjkma1hubc/network-snapshot-000162.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152720364-b81f55c2-5da1-48be-ab3d-338da3ab5fbc.jpg" height=150>![network-snapshot-000162 pkl](https://user-images.githubusercontent.com/10214666/152720383-4fbf252a-bd1e-4f31-841c-5ce5ec2b7026.gif)  |   
   | 128 kimg<br>[Download .pkl](https://www.dropbox.com/s/6lwn7c9y0i952ew/network-snapshot-000128.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706249-716a09ca-09e9-4f0e-89e6-7c0482669d6f.jpg" height=150>![network-snapshot-000128 pkl](https://user-images.githubusercontent.com/10214666/152711602-89ddd131-21ef-4ba5-92d8-5056360b50fe.gif) | 
   | 13 kimg<br>[Download .pkl](https://www.dropbox.com/s/nqpq11gcsu0e7yw/network-snapshot-000013.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152706247-7142c170-6b05-4780-b02c-e48a88eec2be.jpg" height=150>![network-snapshot-000013 pkl](https://user-images.githubusercontent.com/10214666/152711596-291a5143-d162-40f5-ac14-ca2a42bbf424.gif) | 
   </details>
@@ -295,10 +297,15 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 | Samples | <img src="https://user-images.githubusercontent.com/10214666/152718110-629afb83-2b9d-4743-9a7a-b1fed31f74ba.jpg" height=150> |  
   
   </details>
-  <details><Summary>Model: coming soon ...<i></i></summary>
+  <details><Summary>Model 256x256 <i></i></summary>
 
+  |    |   |
+  | --- | --- |
+  | Method | stylegan3-t, Transfer learning from [Landscape256]() |
+  | Resolution | 256x256 |
+  | 6 kimg<br>[Download .pkl](https://www.dropbox.com/s/5oar443k7iw3qvp/network-snapshot-000006.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152721194-cdd940e3-2ab4-479c-9a26-629a47b91f36.jpg" height=150>![network-snapshot-000006 pkl](https://user-images.githubusercontent.com/10214666/152721211-1390e532-ea99-4cc7-84d4-846292ddcebc.gif) |  
+  | 5 kimg<br>[Download .pkl](https://www.dropbox.com/s/g3asjz3yn4ub1c5/network-snapshot-000005.pkl?dl=0) | <img src="https://user-images.githubusercontent.com/10214666/152721192-378eb256-133f-4c2c-80b2-71df6fadd3cb.jpg" height=150>![network-snapshot-000005 pkl](https://user-images.githubusercontent.com/10214666/152721202-b7ab3aae-b400-4ae7-a776-6daf0a1a6071.gif) |  
   </details>
-
 
 
 
