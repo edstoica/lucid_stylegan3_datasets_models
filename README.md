@@ -340,6 +340,6 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
 -->
 ## Contribution
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
-Also, if you made some images or videos you like to share - put them in the issues...
+<br>Also, if you made some images or videos you like to share - we would love to see your work! put everything in the issues...
 ## License
 You are welcomed to use everything for your own (commercial) purposes, but please include a link to this repo in your work. Thank you.
