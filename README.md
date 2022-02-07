@@ -3,7 +3,12 @@
 You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
 Some models include multiple snapshots. these can give interesing variations.
 <br><br><i>You are welcomed to use everything for your own purposes, but please include a link to this repo in your work.</i><br>
-
+<br>
+This Document will be updated frequently since most of our models are still training on higher resolution.
+- [x] prepare all datasets in resolutions 256, 512, 1024
+- [x] train each datasets in 256
+- [ ] train each datasets in 512
+- [ ] train each datasets in 1024
 
 
 # ... based on "Wombo Dream":
