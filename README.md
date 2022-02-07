@@ -339,5 +339,5 @@ these images were cropped to center and scaled to 1024x1024. datasets in resolut
   </details>
 -->
 
-# License
-You are welcomed to use everything for your own purposes, but please include a link to this repo in your work. Thank you.
+## License
+You are welcomed to use everything for your own (commercial) purposes, but please include a link to this repo in your work. Thank you.
