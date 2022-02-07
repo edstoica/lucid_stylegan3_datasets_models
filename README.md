@@ -367,7 +367,7 @@ Most datasets are tied to one single textpromt with some minor variations. But y
 We recomend to install the official [StyleGAN3](https://github.com/NVlabs/stylegan3) repo to your local machine. then use the "visualizer.py" to start the gui. The [GUI](https://lambdalabs.com/blog/content/images/2021/10/sg-vis.jpg) is very comfortable to use and allows easy visual inspection of the models, in realtime. (RTX card recommended).<br>
 If you have troubles for installing on windows with anaconda, try my edited [enviroment.yml](https://github.com/edstoica/stylegan3/blob/main/environment.yml) file. this works with the current [pytorch](https://pytorch.org/get-started/locally/) release (cuda11).
 <br>Alternatively you may use a colab notebook to generate images/videos from the model. Just copy the links from this page to your favorite colab notebook.
-<br>Here is a basic notebook, pre-configured for our models: (image, video, music video)<br>
+<br>Here is a basic notebook, pre-configured for many of our models: (image, video, music video)<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edstoica/lucid_stylegan3_datasets_models/blob/main/StyleGAN3-Toolkit.ipynb)
 ## Progress
 - [x] prepare all datasets in resolutions 256, 512, 1024
