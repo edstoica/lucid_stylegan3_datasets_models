@@ -1,6 +1,6 @@
 # Datasets and pretrained Models for [StyleGAN3](https://github.com/NVlabs/stylegan3) ...
 <b>Dear arfiticial friend, this is a collection of artistic datasets and models that we have put together during our ongoing stylegan3 trip at the <i>lucid layers</i> studios. You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
-Some models include multiple snapshots. these can give interesing variations.
+Some models include multiple snapshots. these can give interesting variations.
 <br><br><i>You are welcomed to use everything for your own purposes, but please include a link to this repo in your work.</i><br>
 
 ### Updates
