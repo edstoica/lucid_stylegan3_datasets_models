@@ -1,11 +1,11 @@
-# Datasets and pretrained Models for StyleGAN3
+# Datasets and pretrained Models for StyleGAN3 ...
 <b>Dear arfiticial friend, this is a collection of artistic datasets and models that we have put together during our ongoing stylegan3 trip at the <i>lucid layers</i> studios. You can use the model snapshots for instant fun, or you can work with the source datasets to train your own models.</b><br>
 Some models include multiple snapshots. these can give interesing variations.
 <br><br><i>You are welcomed to use everything for your own purposes, but please include a link to this repo in your work.</i><br>
-<br>
+
 ### Updates
 </b>This Document will be updated frequently</b> since most of our models are still in training on higher resolution.
-You find information on updates in the "releases" section on the right. (you may "watch" this repo for getting notified on new models)
+You find information on each update in the "[releases](https://github.com/edstoica/lucid_stylegan3_datasets_models/releases)" section. (you may "watch" this repo for getting notified on new models)
 ### Progress
 - [x] prepare all datasets in resolutions 256, 512, 1024
 - [ ] train each datasets in 256
