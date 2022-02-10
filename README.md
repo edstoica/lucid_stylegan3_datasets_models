@@ -380,5 +380,5 @@ If you have troubles for installing on windows with anaconda, try this edited [e
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
 <br>Also, if you made some images or videos you like to share - we would love to see your work! put everything in the issues...
 ## License
-You are welcomed to use all files for your own purposes, but please include a link to this repo in your work. Thank you.
+You are welcomed to use all files for your own purposes. please include a link to this repo in your work. Thank you.
 <br>(Terms and Conditions of Wombo, Nvidia and other contributors have to be considered seperately when doing commercial projects.)
