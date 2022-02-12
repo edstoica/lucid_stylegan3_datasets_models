@@ -362,7 +362,7 @@ Most datasets are tied to one single textpromt with some minor variations. But y
  
   </details>
 -->
-[hint](https://www.dropbox.com/s/7rp8cdqudos8e6y/emotions_closeup.1024.zip?dl=0)
+
 -------------------------------------------------
 ## Usage
 We recomend to install the official [StyleGAN3](https://github.com/NVlabs/stylegan3) repo to your local machine. then use the "visualizer.py" to start the gui. The [GUI](https://lambdalabs.com/blog/content/images/2021/10/sg-vis.jpg) is very comfortable to use and allows easy visual inspection of the models, in realtime. (RTX card recomended).<br>
