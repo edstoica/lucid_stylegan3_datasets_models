@@ -11,7 +11,7 @@ You find information on each update in the "[releases](https://github.com/edstoi
 # ... based on [Wombo Dream](https://www.wombo.art/):
 All source images in this category were generated with [Wombo Dream](https://www.wombo.art/). thanks to the cheesy api implementation of [adri326](https://github.com/adri326/wombot) we could remotely generate thousands of images. these images were cropped to center and scaled to 1024x1024. datasets in resolutions of 256, 512 and 1024 were generated and are available for download.<br>
 Most datasets are tied to one single textpromt with some minor variations. But you may mix them together in new datasets to train multi domain models with [style mixing](https://github.com/PDillis/stylegan3-fun/blob/main/style_mixing.py).<br>
-<i><br>Thanks to the wombo creators</b> for their generous quota limits. since wombo is a free service, we like to share all batches that have been created.</i>
+<i><br>Thanks to the wombo creators</b> for their generous quota limits. <br>Since wombo is a free service, we like to share all batches that have been created.</i>
 
 ## 1. Mechanical devices from the future <img src="https://user-images.githubusercontent.com/10214666/152695339-9e6bb3b3-bd4e-4884-82b5-d1c2d3ac8cb3.png" align="right" width=120 > 
 <details><Summary>Dataset</summary>
@@ -381,5 +381,5 @@ If you have troubles for installing on windows with anaconda, try this edited [e
 If you do continue training on a model, or train a dataset in a high resolution, it would be great to include that in this list.<br>(please send me a link to your .pkl file in the "[issues](https://github.com/edstoica/lucid_stylegan3_models/issues)" tab)</i>
 <br>Also, if you made some images or videos you like to share - we would love to see your work! put everything in the issues...
 ## License
-You are welcomed to use all files for your own purposes. please include a link to this repo in your work. Thank you.
+You are welcomed to use all files for your own purposes. we do not claim any copyrights, but it would be cool if you include a link to this repo in your work. Thank you.
 <br>(Terms and Conditions of Wombo, Nvidia and other contributors have to be considered seperately when doing commercial projects.)
